@@ -1,35 +1,65 @@
-Striped by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+TITLE: 
+Savory - 100% Fully Responsive Free HTML5 Bootstrap Template
+
+AUTHOR:
+DESIGNED & DEVELOPED by GetTemplates.co
+
+Website: http://gettemplates.co/
+Twitter: http://twitter.com/gettemplatesco
+Facebook: http://facebook.com/gettemplatesco
 
 
-And here's a new one: Striped, which features a clean, minimalistic design, styling for
-all basic page elements (including blockquotes, tables and lists), a repositionable
-sidebar (left or right), and HTML5/CSS3 code designed for quick and easy customization
-(see code comments for details).
+CREDITS:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Bootstrap
+http://getbootstrap.com/
 
-(* = Not included)
+jQuery
+http://jquery.com/
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-AJ
-aj@lkn.io | @ajlkn
+Modernizr
+http://modernizr.com/
 
+Google Fonts
+https://www.google.com/fonts/
 
-Credits:
+Icomoon
+https://icomoon.io/app/
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Themify Icons
+https://themify.me/themify-icons
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
+
+jQuery countTo
+http://www.owlcarousel.owlgraphic.com/
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+MomentJS
+https://github.com/moment/moment
+
+Bootstrap DateTimePicker
+http://eonasdan.github.io/bootstrap-datetimepicker/
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+Demo Images:
+http://unsplash.com
+
